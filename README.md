@@ -1,4 +1,4 @@
-# Project Title
+# Optimization: Using Genetic Algorithm to solve Hill Climbing Problem
 
 A genetic algorithm to find the global optimal solution via a path on a 3D surface terrain.
 
